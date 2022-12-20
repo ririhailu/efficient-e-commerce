@@ -2,24 +2,24 @@
 
 # Description
 
-Employee Tracker is a CLI applicaiton for building and maintaining companies employee database. Employee allows managers or someone within the company to view all employees, roles, as well as departments. It also allows for adding employees, roles, departments and updating employees all from your CLI.
+Efficient-e-commerce purpose was to build the back of this site. It uses the command line interface (CLI) and object-relational mapping for various methods of data manipulation, storage, and retrieval when using HTTP methods.
 
 
 ## Installation
 
-The organized-employee-tracker was first created in repository in GitHub. The repository was cloned into local desktop. Any changes made to local was added, commited and pushed to reposotory. NPM inquiere, MYSQL2, console.table were used to built this application. 
-
+The Efficient-e-commerce was first created in repository in GitHub. The repository was cloned into local desktop. Any changes made to local was added, commited and pushed to reposotory. NPM express, MYSQL2, sequelize and dotenv were used to built this application. 
+ 
 ## Video Demo
 Below is a walkthrough for organized-employee-tracker application.
 
-https://drive.google.com/file/d/1yXPmjP-EYEvPLF8t3-G6oguYhdVsTPbw/view
+https://drive.google.com/file/d/1fZ5AEpIyTFUDXuWNEWrrLXHrHeXEZnMb/view
 
 
 ## Credits
 
-I would like to than Sheetal Srikumarfor assisting me with this project. 
+I would like to thank Ramon Sanchez assisting me with this project. 
 
-https://www.sqlservertutorial.net/sql-server-basics/sql-server-self-join/
+https://www.youtube.com/watch?v=geB_9Ib9YhY&list=LL&index=4&t=380s 
 
 
 ## License
@@ -48,4 +48,4 @@ SOFTWARE.
 
 ## Review  
 
-https://github.com/ririhailu/organized-employee-tracker 
+https://github.com/ririhailu/efficient-e-commerce 
