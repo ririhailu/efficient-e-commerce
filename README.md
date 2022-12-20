@@ -10,7 +10,7 @@ Efficient-e-commerce purpose was to build the back of this site. It uses the com
 The Efficient-e-commerce was first created in repository in GitHub. The repository was cloned into local desktop. Any changes made to local was added, commited and pushed to reposotory. NPM express, MYSQL2, sequelize and dotenv were used to built this application. 
  
 ## Video Demo
-Below is a walkthrough for organized-employee-tracker application.
+Below is a walkthrough for efficient-e-commerce application.
 
 https://drive.google.com/file/d/1fZ5AEpIyTFUDXuWNEWrrLXHrHeXEZnMb/view
 
